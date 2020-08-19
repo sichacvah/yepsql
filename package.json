@@ -1,6 +1,6 @@
 {
   "name": "yepsql",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SQL parser inspired by yesql",
   "main": "dist/index.js",
   "author": "Sergei Kurochkin",
