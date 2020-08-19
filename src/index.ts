@@ -1,3 +1,3 @@
 export { Executor } from './executor'
 export { IAdapter } from './IAdapter'
-export { parseString, positionalParameter } from './queries'
+export { parseString, positionalParameter, NamedParameter, Parameter } from './queries'
