@@ -1,0 +1,9 @@
+/node_modules
+/tests
+/src
+/dist/tests
+/dist/**/*.js.map
+/dist/**/*.test.js
+yarn.lock
+jest.config.js
+babel.config.js
