@@ -7,3 +7,4 @@
 yarn.lock
 jest.config.js
 babel.config.js
+yarn-error.log
